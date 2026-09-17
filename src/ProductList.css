@@ -172,6 +172,16 @@ body {
     font-size: 29px;
 
 }
+.cart-icon {
+    position: relative;
+}
+.cart-total-number{
+    position: absolute;
+    transform: translate(-50%, -50%);
+    top: 50%;
+    left: 50%;
+}
+
 .plantname_heading{
    display: flex;
    align-items: center;
